@@ -1,0 +1,60 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "piyush",
+      "email": "piyus@123gmail.com",
+      "age": "23",
+      "phone": "1234567890",
+      "dob": "02/02/2023"
+    },
+    {
+      "name": "Piyush palasiya",
+      "email": "piyushpalasiya0508@gmail.com",
+      "phone": "8793612964",
+      "dob": "08/01/1998",
+      "age": "20",
+      "id": 2
+    },
+    {
+      "name": "Piyush Dipak Palasiya",
+      "email": "piyushpalasiya0508@gmail.com",
+      "phone": "8793612964",
+      "dob": "05/11/2000",
+      "age": "22",
+      "id": 3
+    },
+    {
+      "name": "Yash Rathod ",
+      "email": "yash2562001@gmail.com",
+      "phone": "7890563243",
+      "dob": "01/01/2003",
+      "age": "20",
+      "id": 4
+    },
+    {
+      "name": "yogesh",
+      "email": "yogesh777@gmail.com",
+      "phone": "8793612964",
+      "dob": "01/02/1993",
+      "age": "30",
+      "id": 5
+    },
+    {
+      "name": "sumit sartale",
+      "email": "ssartale06@gmail.com",
+      "phone": "6261453678",
+      "dob": "09/11/1997",
+      "age": "24",
+      "id": 6
+    },
+    {
+      "name": "Piyush Palasiya ",
+      "email": "piyush.rathodd@gmail.com",
+      "phone": "8793612964",
+      "dob": "08/01/1998",
+      "age": "23",
+      "id": 7
+    }
+  ]
+}
